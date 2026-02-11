@@ -1,4 +1,5 @@
 # Hi there, I'm Rafa 👋
+
 ## Full-Stack Developer Lead | Security Researcher | Innovative Product Builder
 
 I am based in Brazil (GMT -3), a seasoned full-stack developer and lead at a remote American blockchain company. I'm passionate about leveraging cutting-edge technologies to build innovative products and solutions, with deep expertise in blockchain, cybersecurity, and disruptive tech. I constantly explore new technologies to create business opportunities.
@@ -6,36 +7,87 @@ I am based in Brazil (GMT -3), a seasoned full-stack developer and lead at a rem
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafa-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rafagomesdev)
 [![Twitter](https://img.shields.io/badge/Twitter-@0xrafasec-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/0xrafasec)
+[![GitHub](https://img.shields.io/badge/GitHub-0xrafasec-181717?style=flat-square&logo=github)](https://github.com/0xrafasec)
 
 ### Technologies & Tools:
-- **Frontend:** React (Next.js)
-- **Backend:** Node.js (Nest, Express), Python (Django), and Golang (Gin)
-- **Mobile:** Flutter and React Native
-- **Blockchain:** Distributed systems development and architecture with Solidity, Rust, and Go
-- **Security:** Smart contract auditing, EVM internals, penetration testing, vulnerability research, exploitation, red team operations
-- **Low level:** Rust, Assembly
-- **Other:** Docker, Kubernetes, AWS, Encryption, Advanced Linux, Network Security
 
-### Security Research & Red Team:
+**Development:**
+- **Frontend:** React, Next.js
+- **Backend:** Node.js (Nest, Express), Python (Django), Golang (Gin)
+- **Mobile:** Flutter, React Native
+- **Blockchain:** Solidity, Rust, Go - Distributed systems architecture
+
+**Security:**
+- **Smart Contracts:** EVM auditing, DeFi protocols, Static analysis (Slither, Foundry, Echidna)
+- **Offensive Security:** Red team operations, Penetration testing, Exploit development
+- **Infrastructure:** Docker, Kubernetes, AWS, Advanced Linux hardening
+
+**Low Level:** Rust, Assembly
+
+### Security Research & Red Team
+
 Independent security researcher with expertise across multiple domains:
-- **Smart Contract Security:** EVM-based protocol auditing, DeFi vulnerability research, static analysis (Slither, Foundry, Echidna)
-- **Offensive Security:** Ethical hacking, red team operations, penetration testing across all attack phases (reconnaissance, exploitation, post-exploitation, persistence)
-- **Vulnerability Research:** Discovery and exploitation of security flaws in web applications, distributed systems, and blockchain infrastructure
 
-### Hobbies & Interests:
-- **Investment & Technology Discovery:** Keen to discuss and learn about new investment opportunities and technological trends
-- **Security Research:** Deep diving into exploit development, smart contract vulnerabilities, and advanced attack vectors
-- **Linux:** I'm an advocate of Linux. Arch Linux and Fedora are my preferred distros, sometimes combined with Qubes. Love to talk about it
-- **3D Modeling:** Utilizing tools like Blender to create high-quality 3D models for various applications
-- **Aviation:** Virtual aviation simulation is my passion
+**Smart Contract Security:**
+- EVM-based protocol auditing and vulnerability research
+- DeFi exploit analysis and prevention strategies
 
-### Looking For:
-I'm open to opportunities in blockchain security, smart contract auditing, red team operations, penetration testing, and full-stack development roles that leverage my expertise. Available for security consulting, private audits, offensive security engagements, and innovative blockchain projects. If your company is at the cutting edge of technology, I'd love to hear from you.
+**Offensive Security:**
+- Red team operations and adversary simulation
+- Full-cycle penetration testing (reconnaissance → exploitation → post-exploitation → persistence)
+- Vulnerability research and responsible disclosure
+- Bug bounty programs and security consulting
 
-<table>
-    <tbody>
-        <tr>
-            <td><img alt="Top Languages" src="https://github-readme-stats-lucky-one.vercel.app/api/top-langs/?username=rafagomes&bg_color=15254000&title_color=007BFF&icon_color=808080&text_color=808080&hide_border=true&show_icons=true&langs_count=6&border_radius=0&layout=compact" height="230px"/></td>
-        </tr>
-    </tbody>
-</table>
+**Tools & Methodologies:**
+- Static analysis, fuzzing, formal verification
+- Network penetration, web application security
+- Binary exploitation, reverse engineering
+
+### GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafagomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafagomes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafagomes&theme=tokyonight&hide_border=true" alt="rafagomes's streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafagomes&theme=tokyo-night&hide_border=true&area=true" alt="rafagomes's Activity Graph"/>
+</div>
+
+### GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rafagomes&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="rafagomes's trophies"/>
+</div>
+
+### Interests & Hobbies
+
+- **Security Research:** Exploit development, smart contract vulnerabilities, advanced attack vectors
+- **Investment & Tech:** Cryptocurrency, emerging technologies, market analysis
+- **Linux Enthusiast:** Arch Linux advocate, system optimization, security hardening
+- **3D Modeling:** Blender for high-quality 3D asset creation
+- **Aviation:** Virtual flight simulation
+
+### Looking For
+
+Open to opportunities in:
+- Blockchain security & smart contract auditing
+- Red team operations & penetration testing
+- Full-stack development
+- Security consulting & private audits
+- Innovative tech projects at the cutting edge
+
+**Available for freelance/consulting work.**
+
+### Contact
+
+- **Twitter:** [@0xrafasec](https://twitter.com/0xrafasec)
+- **LinkedIn:** [rafagomesdev](https://www.linkedin.com/in/rafagomesdev)
+- **Telegram:** @ox_rafasec
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rafagomes&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</div>
