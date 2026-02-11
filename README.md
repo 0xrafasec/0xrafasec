@@ -43,7 +43,7 @@ Independent security researcher with expertise across multiple domains:
 - Network penetration, web application security
 - Binary exploitation, reverse engineering
 
-### GitHub Stats
+<!-- ### GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafagomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -61,7 +61,7 @@ Independent security researcher with expertise across multiple domains:
 ### GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rafagomes&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="rafagomes's trophies"/>
-</div>
+</div> -->
 
 ### Interests & Hobbies
 
@@ -88,6 +88,6 @@ Open to opportunities in:
 - **LinkedIn:** [rafagomesdev](https://www.linkedin.com/in/rafagomesdev)
 - **Telegram:** @ox_rafasec
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rafagomes&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</div>
+</div> -->
